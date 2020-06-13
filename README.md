@@ -10,17 +10,25 @@ Web-based Generic Learning Schedule for Tertiary Students is developed to assist
 * Analysis chart - printable
 
 ## Screenshots
+
+### Homepage
 ![s1](https://github.com/NURULFARAHINirwanshah/Web-Based-Generic-Learning-Schedule-for-Tertiary-Student/blob/master/screenshot/screenshot1.png)
 
+### New user registration
 ![s2](https://github.com/NURULFARAHINirwanshah/Web-Based-Generic-Learning-Schedule-for-Tertiary-Student/blob/master/screenshot/screenshot11.png)
 
+### Login
 ![s3](https://github.com/NURULFARAHINirwanshah/Web-Based-Generic-Learning-Schedule-for-Tertiary-Student/blob/master/screenshot/screenshot2.png)
 
+### Forgot password
 ![s4](https://github.com/NURULFARAHINirwanshah/Web-Based-Generic-Learning-Schedule-for-Tertiary-Student/blob/master/screenshot/screenshot3.png)
 
+### User dashboard
 ![s5](https://github.com/NURULFARAHINirwanshah/Web-Based-Generic-Learning-Schedule-for-Tertiary-Student/blob/master/screenshot/screenshot4.png)
 
+### New class schedule
 ![s6](https://github.com/NURULFARAHINirwanshah/Web-Based-Generic-Learning-Schedule-for-Tertiary-Student/blob/master/screenshot/screenshot5.png)
 
+### New activity (study or play)
 ![s7](https://github.com/NURULFARAHINirwanshah/Web-Based-Generic-Learning-Schedule-for-Tertiary-Student/blob/master/screenshot/screenshot6.png)
 
