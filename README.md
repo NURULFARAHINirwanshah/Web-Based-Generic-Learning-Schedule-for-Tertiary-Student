@@ -17,7 +17,7 @@ Web-based Generic Learning Schedule for Tertiary Students is developed to assist
 ### New user registration
 ![s2](https://github.com/NURULFARAHINirwanshah/Web-Based-Generic-Learning-Schedule-for-Tertiary-Student/blob/master/screenshot/screenshot11.png)
 
-### Login
+### Sign-in
 ![s3](https://github.com/NURULFARAHINirwanshah/Web-Based-Generic-Learning-Schedule-for-Tertiary-Student/blob/master/screenshot/screenshot2.png)
 
 ### Forgot password
@@ -26,9 +26,9 @@ Web-based Generic Learning Schedule for Tertiary Students is developed to assist
 ### User dashboard
 ![s5](https://github.com/NURULFARAHINirwanshah/Web-Based-Generic-Learning-Schedule-for-Tertiary-Student/blob/master/screenshot/screenshot4.png)
 
-### New class schedule
+### New class timetable record
 ![s6](https://github.com/NURULFARAHINirwanshah/Web-Based-Generic-Learning-Schedule-for-Tertiary-Student/blob/master/screenshot/screenshot5.png)
 
-### New activity (study or play)
+### New activity record (study or play)
 ![s7](https://github.com/NURULFARAHINirwanshah/Web-Based-Generic-Learning-Schedule-for-Tertiary-Student/blob/master/screenshot/screenshot6.png)
 
