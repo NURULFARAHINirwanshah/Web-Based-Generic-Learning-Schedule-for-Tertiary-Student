@@ -1,6 +1,6 @@
-![logo](https://github.com/NURULFARAHINirwanshah/Web-Based-Generic-Learning-Schedule-for-Tertiary-Student/blob/master/img/logo.png "Title" {width=50px height=50px})
+<img src="https://github.com/NURULFARAHINirwanshah/Web-Based-Generic-Learning-Schedule-for-Tertiary-Student/blob/master/img/logo.png" align="left" width="100px">
 
-# Web-Based-Generic-Learning-Schedule-for-Tertiary-Student
+# Web-Based Generic Learning Schedule for Tertiary Student
 Web-based Generic Learning Schedule for Tertiary Students is developed to assist tertiary student in managing their classes and personal activities with well-planned schedule. This system will generate a schedule in completely automated way for students and generate an analysis chart to help students keep track and manage their time wisely.
 
 ## System Module
